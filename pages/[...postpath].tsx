@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://techi4task.com/` + encodeURI(path as string)
+					`https://www.highcpmrevenuegate.com/m0t09iq8k?key=68df4e4a95875b8608e35100102f4fce`
 				}`,
 			},
 		};
